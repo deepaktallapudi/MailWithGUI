@@ -24,3 +24,6 @@ This is a simple mail application built using Python and Tkinter library. The ap
 
 5. The application window will appear, allowing you to enter the necessary details for the email.
 6. Click the "Send" button to send the email. The application will use the provided Gmail account to send the email.
+
+https://github.com/deepaktallapudi/MailWithGUI/assets/103422044/35cec2c9-5861-4bae-9c9e-45f2cf2f84e9
+
